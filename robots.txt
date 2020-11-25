@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Sitemap: https://escolaesfera.com.br/sitemap.xml
+Sitemap: https://escolaesfera.com.br/sitemap_3.xml
+Sitemap: https://escolaesfera.com.br/sitemap_2.xml
+Sitemap: https://escolaesfera.com.br/sitemap_4.xml
+Sitemap: https://escolaesfera.com.br/sitemap_5.xml

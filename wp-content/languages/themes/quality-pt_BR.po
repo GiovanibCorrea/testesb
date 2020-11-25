@@ -1,0 +1,904 @@
+# Translation of Themes - Quality in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Quality package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-03-06 15:17:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Quality\n"
+
+#. Description of the plugin/theme
+msgid "Quality is a perfect theme to create a corporate/business website. It boasts 3 beautifully designed page templates, namely Business Page, Full-width, and Blog. Quality is built on the Bootstrap CSS Framework, which makes it fully responsive on all devices, and is translation-ready. To enable the Business template, just create a normal WordPress page and select Business Template as page template. The Business template can be further personalized in the customizer. Each section in the Business Template is designed according to current business requirements, with sections like Banner, Services, Projects etc. You can use this theme for any type of activity. Quality supports famous plugins like Contact Form 7, to create your contact page or any type of forms you might want to add. Quality also gives a clean and appealing look to the WordPress core gallery feature. See Quality's demo at http://webriti.com/quality-free"
+msgstr "Quality é um tema perfeito para criar um site corporativo/empresarial.Possui 3 modelos de página lindamente projetados, nomeadamente Business Page, Full-width e Blog.Quality é construída no Bootstrap CSS Framework, o que torna totalmente receptivo em todos os dispositivos, e está pronto para a tradução. Para habilitar o modelo Business, basta criar uma página normal do WordPress e selecionar Template Business como modelo de página. O modelo Business pode ser ainda mais personalizado no personalizador. Cada seção do Modelo de Negócios foi projetada de acordo com os requisitos atuais da empresa, com seções como Banner, Serviços, Projetos, etc. Você pode usar este tema para qualquer tipo de atividade.Quality suporta plugins famosos como o Contact Form 7, para criar sua página de contato ou qualquer tipo de formulários que você possa querer adicionar.Quality também dá uma aparência limpa e atraente para o recurso de galeria principal do WordPress. Veja a demonstração de Quality em http://webriti.com/quality-free"
+
+#. #-#-#-#-#  quality.pot (Quality 1.9.7)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: functions/quality-info/sections/free_pro.php:86
+msgid "Quality"
+msgstr "Quality"
+
+#: functions/quality-info/sections/free_pro.php:39
+msgid "Multiple Color Schemes"
+msgstr "Esquema de múltiplas cores"
+
+#: theme_setup_data.php:20
+msgid "Our awesome services"
+msgstr "Nossos serviços incríveis"
+
+#: functions.php:112
+msgid "Important Notice: We hope you are enjoying this theme, and we thank you for updating it. Please install our Webriti Companion plugin to manage your Services/Projects sections. Don't worry, nothing is lost, just install the Companion Plugin. Go to the Customizer and install the Webriti Companion plugin from there."
+msgstr "Aviso importante: esperamos que você esteja gostando deste tema e agradecemos sua atualização. Instale o nosso plug-in Webriti Companion para gerenciar suas seções de Serviços/Projetos. Não se preocupe, nada é perdido, basta instalar o Companion Plugin. Vá para o Customizer e instale o plugin Webriti Companion a partir daí."
+
+#: functions/quality-info/sections/github.php:11
+#: functions/quality-info/welcome-screen.php:235
+msgid "Why should you upgrade to PRO?"
+msgstr "Por que você deve atualizar para o PRO?"
+
+#: functions/quality-info/sections/github.php:89
+msgid "Quality comes with 9 preset color schemes and you can also create your own palettes using the Custom Color Setting in the Customizer."
+msgstr "Quality vem com 9 esquemas de cores predefinidos e você também pode criar suas próprias paletas usando a Configuração de cores personalizada no Personalizador."
+
+#: functions/quality-info/sections/github.php:71
+msgid "This section is often used to display content like: Latest news, Announcements or Events."
+msgstr "Esta seção é freqüentemente usada para exibir conteúdo como: Últimas notícias, Anúncios ou Eventos."
+
+#: functions/quality-info/sections/github.php:43
+msgid "You can create unlimited slides, which can be controlled by the settings found in Appearance > Customize."
+msgstr "Você pode criar slides ilimitados, que podem ser controlados pelas configurações encontradas em Aparência > Personalizar."
+
+#: functions/quality-info/sections/github.php:34
+msgid "There are beautifully styled navigation/menus in Quality. You can create sub menus and make multi level menus."
+msgstr "Há uma navegação/menu atrativa em Quality. Você pode criar submenus e criar menus de vários níveis."
+
+#: functions/quality-info/sections/github.php:25
+msgid "You can customize your header section and you can add Contact info details and social media icons in the Top Section of the header."
+msgstr "Você pode personalizar sua seção de cabeçalho e adicionar detalhes de informações de contato e ícones de mídia social na seção superior do cabeçalho."
+
+#: functions/quality-info/sections/github.php:17
+msgid "Quality comes with two types of layout: a boxed one and a full-width layout. You can easily switch between them in Appearance > Customize."
+msgstr "Quality vem com dois tipos de layout: um limitado e um layout de largura total. Você pode alternar facilmente entre eles em Aparência > Personalizar."
+
+#: functions/quality-info/sections/getting-started.php:14
+msgid "About the Quality theme"
+msgstr "Sobre o tema Quality"
+
+#: functions/quality-info/sections/free_pro.php:142
+msgid "PRO Support Forum"
+msgstr "Fórum de suporte PRO"
+
+#: functions/quality-info/sections/free_pro.php:130
+msgid "Full-Width layout & Boxed layout"
+msgstr "Layout com largura total e layout limitado"
+
+#: functions/quality-info/sections/free_pro.php:129
+msgid "About Us, Services, Portfolios, Blogs with left and right sidebars or full-width, full-width pages, Contact forms and much more."
+msgstr "Sobre nós, Serviços, Portfólios, Blogs com barras laterais esquerda e direita ou páginas de largura total, formulário de contato e muito mais."
+
+#: functions/quality-info/sections/free_pro.php:127
+msgid "A top header, unlimited sliders, unlimited services, unlimited portfolios, latest news, clients, testimonials, custom widgets"
+msgstr "Um cabeçalho superior, sliders ilimitados, serviços ilimitados, portfólios ilimitados, últimas notícias, clientes, depoimentos, widgets personalizados"
+
+#: functions/quality-info/sections/free_pro.php:98
+msgid "Full-Width Layout"
+msgstr "Layout com Largura Total"
+
+#: functions/quality-info/sections/free_pro.php:92
+msgid "A Slider with 1 static image, 3 Services, 4 Portfolios, Latest News"
+msgstr "Um slider com 1 imagem estática, 3 serviços, 4 portfóloios,  últimas notícias"
+
+#: functions/quality-info/sections/free_pro.php:68
+msgid "You can use WPML to make your website multilingual."
+msgstr "Você pode usar o WPML para tornar seu site multilíngue."
+
+#: functions/quality-info/sections/free_pro.php:67
+msgid "Supports WPML"
+msgstr "Suporta WPML"
+
+#: functions/quality-info/sections/free_pro.php:50
+msgid "Show team members and other custom content just by adding it in the WordPress editor."
+msgstr "Mostre os membros da equipe e outros conteúdos personalizados apenas adicionando-o no editor do WordPress."
+
+#: functions/quality-info/sections/free_pro.php:40
+msgid "Enjoy any if the 9 preset color schemes, or create your own, without adding any code."
+msgstr "Aproveite os 9 esquemas de cores predefinidos, ou crie o seu próprio, sem adicionar nenhum código."
+
+#: functions/quality-info/sections/free_pro.php:36
+msgid "Display all of your information on a single page: the Parallax effect provides you a captivating scrolling experience."
+msgstr "Exibe todas as suas informações em uma única página: o efeito Parallax oferece uma experiência de rolagem cativante."
+
+#: functions/quality-info/sections/free_pro.php:31
+msgid "This theme supports the Contact Form 7 plugin. Use it to build your contact form."
+msgstr "Este tema suporta o plug-in Contact Form 7. Use-o para criar seu formulário de contato."
+
+#: functions/quality-info/sections/free_pro.php:25
+msgid "Quality supports both a Full-Width and a Boxed layout options. To choose your preference (and switch between them) go to Appearance > Customize."
+msgstr "Quality suporta opções de layout de largura total e Boxed. Para escolher a sua preferência (e alternar entre eles) vá para Aparência > Personalizar."
+
+#: functions/quality-info/sections/free_pro.php:22
+msgid "The Quality PRO theme includes various page templates."
+msgstr "O tema Quality PRO inclui vários modelos de página."
+
+#: functions/customizer/customizer-pro.php:111
+msgid "The PRO version gives you more opportunities to enhance your site and business. An effective online presence requires showcasing a company's products and services in the best possible way. Effectively engage your visitors with a Contact Us enquiry form or through an appealing About Us page, or introducing your Team Members, or your latest portfolio. The PRO version offers all this. Choose Quality PRO today and give your business the best!"
+msgstr "A versão PRO oferece mais oportunidades para aprimorar seu site e seus negócios.Uma presença online efetiva exige que os produtos e serviços de uma empresa sejam exibidos da melhor maneira possível.Efetivamente envolve seus visitantes com um formulário de contato ou através de uma página Sobre. A versão PRO oferece tudo isso. Escolha Quality PRO hoje e dê ao seu negócio o melhor!"
+
+#: theme_setup_data.php:44 theme_setup_data.php:47 theme_setup_data.php:50
+#: theme_setup_data.php:53
+msgid "Business cards"
+msgstr "Cartões de visita"
+
+#: theme_setup_data.php:41
+msgid "Most popular of our works."
+msgstr "Mais popular de nossos trabalhos"
+
+#: theme_setup_data.php:27
+msgid "A great value"
+msgstr "Um ótimo valor"
+
+#: theme_setup_data.php:26
+msgid "Friendly Support"
+msgstr "Suporte amigável"
+
+#: theme_setup_data.php:25
+msgid "Global Customer Base"
+msgstr "Base de clientes global"
+
+#: theme_setup_data.php:24
+msgid "Beautiful Design"
+msgstr "Design bonito"
+
+#: search.php:71
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Nada coincide com seus critérios de pesquisa. Tente outra vez com palavras-chave diferentes."
+
+#: search.php:68
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: search.php:20
+msgid "Search results for: %s"
+msgstr "Resultados da pesquisa por: %s"
+
+#: functions/customizer/customizer-slider.php:72 theme_setup_data.php:16
+msgid "Create beautiful websites, 100% responsive and easy to customize."
+msgstr "Crie sites bonitos, 100% responsivo e fácil de personalizar."
+
+#: functions/customizer/customizer-slider.php:57 theme_setup_data.php:15
+msgid "Welcome to Quality theme"
+msgstr "Bem-vindo ao Quality theme"
+
+#: functions/customizer/customizer-slider.php:42 theme_setup_data.php:14
+msgid "Elegant design"
+msgstr "Design elegante"
+
+#: functions/customizer/customizer-copyright.php:17
+msgid "<p>©2018 All Rights Reserved - Webriti. Designed and Developed by<a href=\"https://www.webriti.com/\" target=\"_blank\"> Webriti</a></p>"
+msgstr "<p>©2018 Todos os direitos reservados - Webriti. - Projetado e desenvolvido por<a href=\"https://www.webriti.com/\" target=\"_blank\">Webriti</a></p>"
+
+#: functions/quality-info/welcome-screen.php:64
+msgid "Get started with Quality"
+msgstr "Comece com Quality"
+
+#: functions/quality-info/welcome-screen.php:63
+msgid "Welcome! Thank you for choosing Webriti's Quality WordPress theme. To take full advantage of the features this theme has to offer visit our %swelcome page%s."
+msgstr "Bem vindos! Obrigado por escolher o tema Quality WordPress da Webriti. Para aproveitar ao máximo as características que esse tema tem para oferecer, visite nossa página de %sboas-vindas%s."
+
+#: functions.php:113
+msgid "Go To Customizer"
+msgstr "Ir para o Personalizador"
+
+#: functions/quality-info/sections/github.php:107
+msgid "Building a website with our custom widgets is very simple. Just place them inside the available sidebar or even in the content."
+msgstr "Construir um site com nossos widgets personalizados é muito simples. Basta colocá-los dentro da barra lateral disponível ou mesmo no conteúdo."
+
+#: functions/quality-info/sections/github.php:98
+msgid "Help Section"
+msgstr "Seção Ajuda"
+
+#: functions/quality-info/sections/github.php:53
+msgid "You can display any number of services on the Homepage, with thousands of Font Awesome icons available. You can also display a set of services on a separate page by using the Service page template."
+msgstr "Você pode exibir qualquer número de serviços na página inicial, com milhares de ícones da Font Awesome disponíveis. Você também pode exibir um conjunto de serviços em uma página separada, usando o modelo da página do Serviço."
+
+#: functions/quality-info/sections/github.php:24
+msgid "Top Header Section"
+msgstr "Seção superior do cabeçalho"
+
+#: functions/quality-info/sections/getting-started.php:79
+msgid "Premium Theme Details"
+msgstr "Detalhes do Tema Premium"
+
+#: functions/quality-info/sections/getting-started.php:69
+msgid "Premium Theme Support"
+msgstr "Suporte de Tema Premium"
+
+#: functions/quality-info/sections/getting-started.php:66
+msgid "Your feedback is valuable to us"
+msgstr "O seu feedback é valioso para nós"
+
+#: functions/quality-info/sections/getting-started.php:55
+msgid "PRO Demo"
+msgstr "Ver demo do PRO"
+
+#: functions/quality-info/sections/getting-started.php:31
+msgid "Go to the Customizer"
+msgstr "Ir para o Personalizador"
+
+#: functions/quality-info/sections/getting-started.php:28
+msgid "Install and activate the Webriti Companion plugin to take full advantage of all the features this theme has to offer. Go to Customize and install the Webriti Companion plugin."
+msgstr "Instale e ative o plugin Webriti Companion para tirar o máximo proveito de todos os recursos que esse tema tem para oferecer. Vá para Personalizar e instale o plugin Webriti Companion."
+
+#: functions/quality-info/sections/getting-started.php:22
+msgid "You can use this theme for any type of activity. Quality is compatible with popular plugins like WPML and Polylang, and has predefined versions of a Contact page, a Services page, Portfolio columned layout pages, About Us and Blog layout pages, to help you create an effective and impactful web presence."
+msgstr "Você pode usar esse tema para qualquer tipo de atividade. Quality é compatível com plugins populares como o WPML e o Polylang, e tem versões pré-definidas de página de Contato, uma página de Serviços, páginas de layout de Catálogo de portfólio, Sobre nós e páginas de layout do blog, para ajudá-lo a criar uma presença na web efetiva e impactante."
+
+#: functions/quality-info/sections/getting-started.php:20
+msgid "This is a Business theme, ideal for creating corporate and business websites. The premium version has tons of features: the Homepage has a number of sections where you can feature unlimited sliders, your portfolios, user reviews, latest news, services, calls to action and much more. Each section in the HomePage template is carefully designed to fit to all business requirements."
+msgstr "Este é o tema empresarial, ideal para criar sites corporativos e de negócios. A versão Premium possui toneladas de recursos: A página inicial possui várias seções onde você pode incluir sliders ilimitados, seus portfólios, críticas de usuários, últimas notícias, serviços, chamadas para ação e muito mais. Cada seção no modelo HomePage é cuidadosamente projetada para atender a todos os requisitos de negócios."
+
+#: functions/quality-info/sections/free_pro.php:110
+msgid "On the WordPress.org support forum"
+msgstr "No fórum de suporte do WordPress.org"
+
+#: functions/quality-info/sections/free_pro.php:97
+msgid "Business Template and Full-Width Template"
+msgstr "Modelo empresarial e modelo de largura total"
+
+#: functions/quality-info/sections/free_pro.php:58
+msgid "Show user's feedback in the Homepage."
+msgstr "Mostre o feedback do usuário na página inicial."
+
+#: functions/quality-info/sections/free_pro.php:57
+msgid "Testimonial / Review Section"
+msgstr "Depoimentos / Seção de análise"
+
+#: functions/quality-info/sections/free_pro.php:54
+msgid "Show all your services in a single place."
+msgstr "Mostra todos os seus serviços em um único lugar"
+
+#: functions/quality-info/sections/free_pro.php:53
+msgid "Services Page"
+msgstr "Página Serviços"
+
+#: functions/quality-info/sections/free_pro.php:49
+msgid "About Us Page"
+msgstr "Página Sobre nós"
+
+#: functions/quality-info/sections/free_pro.php:28
+msgid "Responsive layout in all devices"
+msgstr "Layout responsivo em todos os dispositivos"
+
+#: functions/quality-info/sections/free_pro.php:19
+msgid "You will find a number of sections on the front page."
+msgstr "Você encontrará várias seções da página inicial"
+
+#: functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr "Início"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:635
+#: functions/customizer-repeater/class/customizer-repeater-control.php:668
+msgid "Add Icon"
+msgstr "Adicionar ícone"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:630
+#: functions/customizer-repeater/class/customizer-repeater-control.php:660
+msgid "Remove Icon"
+msgstr "Remover ícone"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:613
+msgid "Social icons"
+msgstr "Ícones sociais"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:605
+msgid "None"
+msgstr "nenhuma"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:600
+msgid "Image type"
+msgstr "Tipo de imagem"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:590
+msgid "Video"
+msgstr "Vídeo"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:586
+msgid "Status"
+msgstr "Status"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:582
+msgid "Quote"
+msgstr "Citação"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:578
+msgid "Aside"
+msgstr "Nota"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:574
+msgid "Standard"
+msgstr "Padrão"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:570
+msgid "Slide Format"
+msgstr "Formato de Slide"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:561
+msgid "Upload Image"
+msgstr "Enviar Imagem"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:539
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Nota: Alguns ícones talvez não sejam exibidos aqui. Você pode ver a lista completa de ícones em %1$s."
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:523
+msgid "Open link in new tab"
+msgstr "Abrir o link em uma nova aba"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:367
+#: functions/customizer-repeater/class/customizer-repeater-control.php:486
+msgid "Delete field"
+msgstr "Excluir campo"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:351
+#: functions/customizer-repeater/class/customizer-repeater-control.php:475
+msgid "Designation"
+msgstr "Designação"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:343
+#: functions/customizer-repeater/class/customizer-repeater-control.php:466
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:333
+#: functions/customizer-repeater/class/customizer-repeater-control.php:397
+msgid "Color"
+msgstr "Cor"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:309
+#: functions/customizer-repeater/class/customizer-repeater-control.php:455
+msgid "Video Url"
+msgstr "URL de vídeo"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:290
+#: functions/customizer-repeater/class/customizer-repeater-control.php:437
+#: functions/customizer-repeater/class/customizer-repeater-control.php:627
+#: functions/customizer-repeater/class/customizer-repeater-control.php:649
+msgid "Link"
+msgstr "Link"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr "Repetidor personalizado"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr "Adicione um novo campo"
+
+#: functions/customizer-notify/quality-customizer-notify.php:111
+msgid "Activating"
+msgstr "Ativar"
+
+#: functions/customizer/customizer_recommended_plugin.php:20
+msgid "Deactivate"
+msgstr "Desativar"
+
+#: functions/customizer/customizer_recommended_plugin.php:19
+msgid "Activate"
+msgstr "Ativar"
+
+#: functions/customizer/customizer_recommended_plugin.php:18
+msgid "Install and Activate"
+msgstr "Instalar e ativar"
+
+#: functions/customizer/customizer_recommended_plugin.php:17
+msgid "Recommended Plugin"
+msgstr "Plugins recomendados"
+
+#: functions/customizer/customizer_recommended_plugin.php:16
+msgid "Recommended Actions"
+msgstr "Ações recomendadas"
+
+#: functions/customizer/customizer-slider.php:15
+msgid "Featured slider settings"
+msgstr "Configurações da característica do slider"
+
+#: functions/customizer/customizer-slider.php:9
+msgid "Slider settings"
+msgstr "Configurações do slider"
+
+#: functions/customizer/customizer-blog.php:7
+msgid "Recent Blog setting"
+msgstr "Configuração de blog"
+
+#. Template Name of the plugin/theme
+msgid "Full-width page"
+msgstr "Página com Largura Total"
+
+#: index-blog.php:27
+msgid "Posted By"
+msgstr "Postado por"
+
+#: functions/widget/custom-sidebar.php:6 functions/widget/custom-sidebar.php:8
+msgid "Sidebar widget area"
+msgstr "Área de widget da barra lateral"
+
+#: functions/customizer/customizer-slider.php:111
+msgid "Button Link"
+msgstr "Link do botão"
+
+#: functions/customizer/customizer-slider.php:95
+#: functions/customizer-repeater/class/customizer-repeater-control.php:279
+#: functions/customizer-repeater/class/customizer-repeater-control.php:427
+msgid "Button Text"
+msgstr "Texto do botão"
+
+#: functions/customizer/customizer-slider.php:63
+#: functions/customizer-repeater/class/customizer-repeater-control.php:263
+#: functions/customizer-repeater/class/customizer-repeater-control.php:412
+msgid "Subtitle"
+msgstr "Legenda"
+
+#: functions/customizer-repeater/class/customizer-repeater-control.php:534
+#: functions/customizer-repeater/class/customizer-repeater-control.php:603
+msgid "Icon"
+msgstr "Ícone"
+
+#: functions/customizer/customizer-slider.php:78
+#: functions/customizer-repeater/class/customizer-repeater-control.php:270
+#: functions/customizer-repeater/class/customizer-repeater-control.php:419
+msgid "Description"
+msgstr "Descrição"
+
+#: functions/customizer/customizer-slider.php:30
+#: functions/customizer-repeater/class/customizer-repeater-control.php:558
+#: functions/customizer-repeater/class/customizer-repeater-control.php:604
+msgid "Image"
+msgstr "Imagem"
+
+#: functions/customizer/customizer-blog.php:47
+#: functions/customizer/customizer-slider.php:48
+#: functions/customizer-repeater/class/customizer-repeater-control.php:256
+#: functions/customizer-repeater/class/customizer-repeater-control.php:405
+msgid "Title"
+msgstr "Título"
+
+#: functions/customizer/customizer-home.php:140
+#: functions/customizer/customizer-home.php:153
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: functions/customizer/customizer-blog.php:38 theme_setup_data.php:57
+msgid "Our latest blog posts"
+msgstr "Nossos posts mais recentes"
+
+#: functions/customizer/customizer-blog.php:27
+msgid "Enable Home Blog section"
+msgstr "Ativar seção Blog na página inicial"
+
+#: comments.php:46
+msgid "Send Message"
+msgstr "Enviar mensagem"
+
+#: comments.php:44
+msgid "Logout"
+msgstr "Sair"
+
+#: comments.php:28
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr "Você deve estar <a href=\"%s\">logado</a> para postar um comentário"
+
+#: 404.php:11
+msgid "Go Back"
+msgstr "Voltar"
+
+#: functions/quality-info/welcome-screen.php:237
+msgid "Child Themes"
+msgstr "Temas filhos"
+
+#: functions/quality-info/welcome-screen.php:236
+msgid "Free VS PRO"
+msgstr "Grátis x PRO"
+
+#: functions/quality-info/sections/getting-started.php:24
+#: functions/quality-info/welcome-screen.php:233
+msgid "Getting Started"
+msgstr "Primeiros passos"
+
+#: functions/quality-info/welcome-screen.php:163
+msgid "View Theme Info"
+msgstr "Veja informações do tema"
+
+#: functions/quality-info/welcome-screen.php:126
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Legal! Não existem ações necessárias para você nesse momento."
+
+#: functions/quality-info/sections/github.php:117
+msgid "The theme supports yet another famous plugin: WPML. With the help of this support you can create a website available in multiple languages."
+msgstr "O tema ainda suporta outro plugin famoso: WPML. Com a ajuda dele, você pode criar um site disponível em vários idiomas."
+
+#: functions/quality-info/sections/github.php:116
+msgid "Translation Ready"
+msgstr "Pronto para traduções"
+
+#: functions/quality-info/sections/github.php:106
+msgid "Custom widget "
+msgstr "Widget personalizado"
+
+#: functions/quality-info/sections/github.php:98
+msgid "We provide good knowledge-base articles to help you create effective websites. You can visit these articles through our"
+msgstr "Nós fornecemos uma boa base de conhecimento para ajudá-lo a criar sites efetivos. Você pode visitar esses artigos através do nosso"
+
+#: functions/quality-info/sections/github.php:97
+msgid "Well Documented"
+msgstr "Bem documentado"
+
+#: functions/quality-info/sections/github.php:79
+msgid "Testimonials are a powerful way to gain credibility. You can display testimonials with a carousel effect."
+msgstr "Os depoimentos são uma maneira poderosa de ganhar credibilidade. Você pode exibir os depoimentos com um efeito de carrossel."
+
+#: functions/quality-info/sections/github.php:78
+msgid "Testimonial Feature"
+msgstr "Características de Depoimentos"
+
+#: functions/quality-info/sections/github.php:70
+msgid "Latest News Section"
+msgstr "Seção Últimas notícias"
+
+#: functions/quality-info/sections/github.php:62
+msgid "Showcase any number of projects. This theme provides you with an option to create 2, 3, 4 column grid layouts by using the portfolio 2, 3, 4 column layout templates, respectively. If you have a number of projects to present then these templates are the answer. You can also create categorized portfolios, which display all the portfolio categories in a single place. In fact, we have coded this theme so that you can create any number of different portfolios."
+msgstr "Mostre qualquer número de projetos. Este tema oferece à você uma opção para criar layouts de grade com 2, 3 ou 4 colunas usando os modelos de layout de colunas de portfólio 2, 3 ou 4, respectivamente. Se você tem vários projetos para apresentar, então estes templates são a resposta. Você também pode criar portfólios categorizados, que exibem todas as categorias do portfólio em um único local. Na verdade, codificamos esse tema para que você possa criar qualquer número de diferentes portfólios."
+
+#: functions/quality-info/sections/github.php:61
+msgid "Portfolio Features"
+msgstr "Características do portfolio"
+
+#: functions/quality-info/sections/github.php:51
+msgid "Service Features"
+msgstr "Características do serviço"
+
+#: functions/quality-info/sections/github.php:42
+msgid "Caption Slider"
+msgstr "Legenda do slider"
+
+#: functions/quality-info/sections/github.php:33
+msgid "Multi Level Navigation"
+msgstr "Navegação multi-nível"
+
+#: functions/quality-info/sections/github.php:16
+msgid "Site Layout"
+msgstr "Layout do site"
+
+#: functions/quality-info/sections/getting-started.php:51
+msgid "Lite Demo"
+msgstr "Demo da versão Lite"
+
+#: functions/quality-info/sections/getting-started.php:44
+msgid "Useful Links"
+msgstr "Links úteis"
+
+#: functions/quality-info/sections/free_pro.php:152
+msgid "Get Quality PRO Now!"
+msgstr "Adquira agora Quality PRO!"
+
+#: functions/quality-info/sections/free_pro.php:122
+msgid "Quality PRO"
+msgstr "Quality PRO"
+
+#: functions/quality-info/sections/free_pro.php:72
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr "Obtenha suporte instantâneo 24/7, no nosso fórum de Suporte."
+
+#: functions/quality-info/sections/free_pro.php:71
+msgid "Support Forum"
+msgstr "Fórum de suporte"
+
+#: functions/quality-info/sections/free_pro.php:63
+msgid "Customize the style without adding any code."
+msgstr "Personalize o estilo sem adicionar nenhum código."
+
+#: functions/quality-info/sections/free_pro.php:62
+msgid "Typography Settings"
+msgstr "Configurações de tipografia"
+
+#: functions/quality-info/sections/free_pro.php:46
+msgid "Present your project/portfolio collection with 2 column, 3 column and 4 column layouts. You can also display your project/portfolio by category."
+msgstr "Exibe sua coleção de projetos/portfólio em 2 colunas, 3 colunas e layouts de 4 colunas. Você também pode exibir seu projeto/portfólio por categoria."
+
+#: functions/quality-info/sections/free_pro.php:45
+msgid "Portfolio"
+msgstr "Portfólio"
+
+#: functions/quality-info/sections/free_pro.php:43
+msgid "Display your Shop and Business location on your website using Google Maps."
+msgstr "Exibe a localização de sua loja ou negócio em seu site usando o Google Maps."
+
+#: functions/quality-info/sections/github.php:88
+msgid "Mulitple Color Schemes"
+msgstr "Esquema de múltiplas cores"
+
+#: functions/quality-info/sections/free_pro.php:35
+msgid "Parallax Effect"
+msgstr "Efeito Parallax "
+
+#: functions/quality-info/sections/free_pro.php:30
+msgid "Contact Form Support"
+msgstr "Formulário de contato de Suporte"
+
+#: functions/quality-info/sections/free_pro.php:27
+msgid "Mobile Friendly"
+msgstr "Amigável a dispositivos móveis"
+
+#: functions/quality-info/sections/free_pro.php:24
+msgid "Layout Options"
+msgstr "Opções de layout"
+
+#: functions/quality-info/sections/free_pro.php:21
+msgid "Page Templates Support"
+msgstr "Modelos de páginas de suporte"
+
+#: functions/quality-info/sections/free_pro.php:18
+msgid "Frontpage Sections"
+msgstr "Seções da página inicial"
+
+#: functions/quality-info/sections/free_pro.php:14
+msgid "Features"
+msgstr "Características"
+
+#: functions/quality-info/sections/child-themes.php:101
+msgid "Quality Orange - Current theme"
+msgstr "Quality Orange - Tema atual"
+
+#: functions/quality-info/sections/child-themes.php:88
+#: functions/quality-info/sections/child-themes.php:94
+msgid "Quality Orange"
+msgstr "Quality Orange"
+
+#: functions/quality-info/sections/child-themes.php:86
+msgid "Quality Orange Child Theme"
+msgstr "Tema filho Quality Orange"
+
+#: functions/quality-info/sections/child-themes.php:71
+msgid "Quality - Current theme"
+msgstr "Quality - Tema atual"
+
+#: functions/quality-info/sections/child-themes.php:58
+#: functions/quality-info/sections/child-themes.php:64
+msgid "Quality Green"
+msgstr "Quality Green"
+
+#: functions/quality-info/sections/child-themes.php:56
+msgid "Quality Green Child Theme"
+msgstr "Tema filho Quality Green"
+
+#: functions/quality-info/sections/child-themes.php:43
+#: functions/quality-info/sections/child-themes.php:72
+#: functions/quality-info/sections/child-themes.php:102
+msgid "Customize"
+msgstr "Personalizar"
+
+#: functions/quality-info/sections/child-themes.php:42
+msgid "Quality Blue - Current theme"
+msgstr "Quality Blue - Tema atual"
+
+#: functions/quality-info/sections/child-themes.php:37
+#: functions/quality-info/sections/child-themes.php:66
+#: functions/quality-info/sections/child-themes.php:96
+msgid "Live Preview"
+msgstr "Ver ao vivo"
+
+#: functions/quality-info/sections/child-themes.php:36
+#: functions/quality-info/sections/child-themes.php:65
+#: functions/quality-info/sections/child-themes.php:95
+msgid "Install %s now"
+msgstr "Instale %s agora"
+
+#: functions/quality-info/sections/child-themes.php:29
+msgid "Quality Blue"
+msgstr "Quality Blue"
+
+#: functions/quality-info/sections/child-themes.php:18
+msgid "Below you will find a selection of Quality child themes that will totally transform the look of your site."
+msgstr "Abaixo, você encontrará uma seleção de temas filhos de qualidade que transformarão totalmente a aparência do seu site."
+
+#: functions/quality-info/sections/child-themes.php:16
+msgid "Install & Use Quality Child Themes"
+msgstr "Instalar e usar o Tema filho Quality"
+
+#: functions/quality-info/sections/child-themes.php:27
+#: functions/quality-info/sections/getting-started.php:37
+msgid "Quality Blue Child Theme"
+msgstr "Tema filho Quality Blue"
+
+#: functions/customizer/customizer-pro.php:48
+msgid "View PRO Demo"
+msgstr "Ver Demo PRO"
+
+#: functions/customizer/customizer-slider.php:88 theme_setup_data.php:17
+msgid "Get this theme"
+msgstr "Adquira este tema"
+
+#: functions/widget/custom-sidebar.php:16
+#: functions/widget/custom-sidebar.php:18
+msgid "Footer widget area"
+msgstr "Área de widget do rodapé"
+
+#. Template Name of the plugin/theme
+msgid "Business Template"
+msgstr "Modelo Business"
+
+#: functions/quality-info/sections/free_pro.php:42
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: functions/customizer/customizer-pro.php:13
+#: functions/customizer/customizer-pro.php:20
+msgid "Upgrade to PRO"
+msgstr "Atualize para a versão PRO"
+
+#: tag.php:8
+msgid "Tag Archive %s"
+msgstr "Arquivo da tag %s"
+
+#: functions.php:68
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions.php:54
+msgid "Page"
+msgstr "Página"
+
+#: theme_setup_data.php:40
+msgid "Featured portfolio projects"
+msgstr "Projeto de portfólio em destaque"
+
+#: functions/customizer/customizer-pro.php:107
+msgid "DOCUMENTATION"
+msgstr "Documentação"
+
+#: functions/customizer/customizer-pro.php:76
+msgid "ADD YOUR REVIEW"
+msgstr "Faça uma avaliação"
+
+#: functions/customizer/customizer-home.php:132
+msgid "Show Logo text"
+msgstr "Mostrar texto do logo"
+
+#: functions/customizer/customizer-home.php:110
+msgid "Enter Logo Height"
+msgstr "Digite a altura do logo"
+
+#: functions/customizer/customizer-home.php:91
+msgid "Enter Logo Width"
+msgstr "Digite a largura do logo"
+
+#: functions/customizer/customizer-home.php:70
+msgid "Enable/Disable Logo"
+msgstr "Ativar/desativar logo"
+
+#: functions/customizer/customizer-home.php:51
+msgid "Upload a 150x150 Logo Image"
+msgstr "Envie uma imagem de logo de 150x150"
+
+#: functions/customizer/customizer-home.php:34
+msgid "Header logo settings"
+msgstr "Configurações do logo do cabeçalho"
+
+#: functions/customizer/customizer-home.php:28
+msgid "Choose your favicon (ideal width and height is 16x16 or 32x32)"
+msgstr "Escolha seu favicon (medidas ideais: 16x16px ou 32x32px)"
+
+#: functions/customizer/customizer-home.php:16
+msgid "Upload a Favicon"
+msgstr "Enviar um favicon"
+
+#: functions/customizer/customizer-home.php:14
+msgid "Site Favicon"
+msgstr "Favicon do site"
+
+#: functions/customizer/customizer-home.php:8
+msgid "Header settings"
+msgstr "Configurações do cabeçalho"
+
+#: functions/customizer/customizer-copyright.php:26
+msgid "Copyright text"
+msgstr "Copyright Text"
+
+#: functions/customizer/customizer-copyright.php:8
+msgid "Footer copyright settings"
+msgstr "Configurações de nota de rodapé sobre direito autoral"
+
+#: functions/commentbox/comment-function.php:29
+msgid "Your comment is awaiting moderation."
+msgstr "O seu comentário aguarda moderação."
+
+#: functions/commentbox/comment-function.php:21
+msgid "at"
+msgstr "em"
+
+#: functions/commentbox/comment-function.php:12
+msgid "Reply"
+msgstr "Resposta"
+
+#: comments.php:49
+msgid "Leave a Reply"
+msgstr "Deixe um Comentário"
+
+#: comments.php:44
+msgid "Logged in as"
+msgstr "Autenticado como"
+
+#: comments.php:42
+msgid "Comment"
+msgstr "Comentário"
+
+#: comments.php:34
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:33
+msgid "Name"
+msgstr "Nome"
+
+#: comments.php:19
+msgid "Newer Comments &rarr;"
+msgstr "Comentários mais recentes &rarr;"
+
+#: comments.php:18
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentários mais antigos"
+
+#: comments.php:17
+msgid "Comment navigation"
+msgstr "Navegação dos comentários"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Esse post é protegido por senha. Informe-a para ver quaisquer comentários."
+
+#: archive.php:62 author.php:48 category.php:48 index.php:54 search.php:60
+#: single.php:51 tag.php:50
+msgid "Read More"
+msgstr "Ler mais"
+
+#: archive.php:17
+msgid "Blog Archive"
+msgstr "Arquivos do blog"
+
+#: archive.php:15
+msgid "Yearly Archive"
+msgstr "Arquivo Anual"
+
+#: archive.php:13
+msgid "Monthly Archive"
+msgstr "Arquivo Mensal"
+
+#: archive.php:11
+msgid "Daily Archive"
+msgstr "Arquivo Diário"
+
+#: 404.php:10
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Lamentamos, mas a página que você está procurando não existe."
+
+#: 404.php:9
+msgid "Oops! Page not found"
+msgstr "Opa! Página não encontrada"
+
+#: 404.php:8
+msgid "Error 404"
+msgstr "Erro 404 - Página não encontrada."
+
+#. Author URI of the plugin/theme
+msgid "https://webriti.com/"
+msgstr "https://webriti.com/"
+
+#. Author of the plugin/theme
+msgid "Webriti"
+msgstr "Webriti"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/quality-lite-version-details-page/"
+msgstr "https://webriti.com/quality-lite-version-details-page/"

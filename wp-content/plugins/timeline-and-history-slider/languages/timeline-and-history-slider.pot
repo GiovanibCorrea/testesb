@@ -1,0 +1,496 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Timeline and History Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-02 08:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.1"
+
+#: includes/admin/settings/premium.php:183
+msgid "1 Year"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:237
+msgid "100% Multi language"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:223
+msgid "12+ cool designs"
+msgstr ""
+
+#: includes/admin/settings/premium.php:94
+msgid "12+ Verical And Horizontal Design"
+msgstr ""
+
+#: includes/admin/settings/premium.php:99
+msgid "2 Shortcodes and adding 12+ Designs"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:250
+msgid "5 stars!"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:77
+msgid "Add New Category"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:25
+msgid "Add New slide"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:34
+msgctxt "admin menu"
+msgid "Timeline Slider"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:72
+msgid "All Category"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:190
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:227
+msgid "Also work with WordPress POST"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:22
+msgid "Any sort of WP work with no extra cost"
+msgstr ""
+
+#: includes/admin/settings/premium.php:176
+msgid "Automatic Update <span>Get automatic  plugin updates </span>"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:201
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/admin/settings/premium.php:136
+msgid ""
+"Content Words Limit <span>Controls Word limit for content. Default value is "
+"70</span>"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:224
+msgid ""
+"Create unlimited timeline stories inside your WordPress website or blog."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:235
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:23
+msgid "Dedicated expert working only for you!"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:203
+msgid "Demo for Designs"
+msgstr ""
+
+#: includes/admin/settings/premium.php:92
+msgid "Designs <span>Designs that make your website better</span>"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:202
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/settings/premium.php:141
+msgid ""
+"Drag & Drop Slide Order Change <span>Arrange your desired slides with your "
+"desired order and display</span>"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:26
+msgid "Edit"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:75
+msgid "Edit Category"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:250
+msgid "Enjoyed this plugin? You can help by rate this plugin "
+msgstr ""
+
+#: includes/admin/settings/premium.php:161
+msgid ""
+"Exclude Categories <span>You can pass multiple categories ids by comma "
+"separated.</span>"
+msgstr ""
+
+#: includes/admin/settings/premium.php:156
+msgid ""
+"Exclude Timeline <span>You can pass multiple ids by comma separated.</span>"
+msgstr ""
+
+#: includes/admin/settings/premium.php:70
+msgid "Free"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:236
+msgid "Fully responsive"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:239
+#: includes/admin/settings/premium.php:75
+#: includes/admin/settings/premium.php:85
+msgid ""
+"Gain access to <strong>Timeline and History slider</strong> included in <br "
+"/><strong>Essential Plugin Bundle"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:164
+msgid "Geeting Started with Timeline and History Slider"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:240
+msgid "Go Premium "
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:232
+msgid "Gutenberg Block Supports"
+msgstr ""
+
+#: includes/admin/settings/premium.php:146
+msgid ""
+"Gutenberg Block Supports <span>Use this plugin with Gutenberg easily</span>"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:247
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:18
+msgid "Highlight of Hiring:"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:20
+msgid "Hire once, get unlimited jobs done"
+msgstr ""
+
+#: includes/admin/class-wpostahs-admin.php:42
+#: includes/admin/settings/hire-us.php:83
+#: includes/admin/settings/hire-us.php:84
+#: includes/admin/settings/hire-us.php:85
+#: includes/admin/settings/hire-us.php:86
+msgid "Hire Us"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:15
+msgid "Hire Us - Get unlimited expert WordPress Support and Development"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:62
+msgid "Hire us for 1 Hr"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:70
+msgid "Hire us for 30 Hrs"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:66
+msgid "Hire us for 5 Hrs"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:75
+msgid "Hire us for 70 Hrs"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:22
+#: includes/admin/wpostahs-how-it-work.php:118
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:156
+msgid "How It Works - Display and shortcode"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:22
+msgid "How it works, our plugins and offers"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:178
+msgid "How Shortcode Works"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.wponlinesupport.com/plugins/"
+msgstr ""
+
+#: timeline-and-history-slider.php:151
+#, php-format
+msgid ""
+"It looks like you had PRO version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/admin/settings/premium.php:177
+#: includes/admin/settings/premium.php:178
+msgid "Lifetime"
+msgstr ""
+
+#: includes/admin/settings/premium.php:182
+msgid "Limited"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:231
+msgid "Mobile Compatibility View"
+msgstr ""
+
+#: includes/admin/settings/premium.php:166
+msgid ""
+"Multiple Slider Parameters <span>Slider parameters like autoplay, number of "
+"slide, sider dots and etc.</span>"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:198
+msgid "Need Support?"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:27
+msgid "New"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:78
+msgid "New Category Name"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:31
+msgid "No Items found in Trash"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:30
+msgid "NoItems found"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:72
+#: includes/admin/settings/premium.php:76
+msgid "Our most valuable package!"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:121
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:73
+#: includes/wpostahs-slider-custom-post.php:74
+msgid "Parent Category"
+msgstr ""
+
+#: includes/admin/settings/premium.php:74
+msgid "Premium"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:21
+msgid "Quick ticket support, quick solution"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:29
+msgid "Search"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:71
+msgid "Search Category"
+msgstr ""
+
+#: includes/admin/settings/premium.php:122
+msgid ""
+"Separate Field for Custom icon <span>Seprate Field availabe if you want to "
+"add Custom icon</span>"
+msgstr ""
+
+#: includes/admin/settings/premium.php:107
+msgid ""
+"Shortcode Generator <span>Play with all shortcode parameters with preview "
+"panel. No documentation required!!</span>"
+msgstr ""
+
+#: includes/admin/settings/premium.php:102
+msgid "Shortcode Parameters <span>Add extra power to the shortcode</span>"
+msgstr ""
+
+#: includes/admin/settings/premium.php:97
+msgid "Shortcodes <span>Shortcode provide output to the front-end side</span>"
+msgstr ""
+
+#: includes/admin/settings/premium.php:117
+msgid "Show/hide post link  <span>Option Show/hide post link</span>"
+msgstr ""
+
+#: includes/admin/settings/premium.php:171
+msgid "Slider RTL Support <span>Slider supports for RTL website</span>"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:182
+msgid "Step-1. Create a page like Timeline OR Post Timeline."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:168
+msgid "Step-1. Go to \"Timeline Slider --> Add slide tab\"."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:169
+msgid "Step-2. Add Album title, description and featured image and Publish."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:183
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:170
+msgid ""
+"Step-3. Also you can display multiple timeline with category shortcode. Just "
+"go to \"Timeline Slider --> category\" and create the category. "
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:171
+msgid ""
+"Step-4. Asign the timeline post to respective category and use the category "
+"shortcode to display"
+msgstr ""
+
+#: includes/admin/settings/premium.php:181
+msgid "Support <span>Get support for plugin</span>"
+msgstr ""
+
+#: timeline-and-history-slider.php:150
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:103
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#. Name of the plugin
+msgid "Timeline and History Slider"
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "Timeline and History slider - Features"
+msgstr ""
+
+#: includes/admin/settings/premium.php:131
+msgid "Timeline Categories Wise <span>Display Timeline categories wise</span>"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:79
+msgid "Timeline Category"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:228
+msgid "Timeline Category Management – Add stories in specific category."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Timeline Plugin for WordPress. Easy to add and display history OR timeline "
+"for your WordPress website. Also support WordPress POST post type. Also work "
+"with Gutenberg shortcode block."
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:230
+msgid ""
+"Timeline Scrolling Navigation – Quickly and easily navigate your timeline "
+"with a beautiful scrolling navigation inside your timeline."
+msgstr ""
+
+#: includes/admin/class-wpostahs-admin.php:98
+msgid "Timeline Shortcode"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:193
+msgid "Timeline Slider Shortcode"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:229
+msgid ""
+"Timeline Stories Content Format – Add font awesome icon to display timeline "
+"stories format."
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:76
+msgid "Update Category"
+msgstr ""
+
+#: includes/admin/class-wpostahs-admin.php:39
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/admin/class-wpostahs-admin.php:39
+msgid "Upgrade to PRO -  Timeline and History slider"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:219
+msgid "Upgrate to Pro"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:225
+msgid "Use via 2 Shortcodes and adding 12+ Designs"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:226
+msgid "Vertical and Horizontal Timeline"
+msgstr ""
+
+#: includes/wpostahs-slider-custom-post.php:28
+msgid "View"
+msgstr ""
+
+#: includes/admin/settings/premium.php:86
+msgid "View Buying Options"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:241
+msgid "View PRO Demo "
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:233
+msgid "Visual Composer/WPBakery Page Builder Supports"
+msgstr ""
+
+#: includes/admin/settings/premium.php:151
+msgid ""
+"Visual Composer/WPBakery Page Builder Supports <span>Use this plugin with "
+"Visual Composer OR WPBakery page builder easily</span>"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport"
+msgstr ""
+
+#: includes/admin/wpostahs-how-it-work.php:234
+msgid "WP Templating Features"
+msgstr ""
+
+#: includes/admin/settings/premium.php:112
+msgid "WP Templating Features "
+msgstr ""
+
+#: includes/admin/supports/gutenberg-block.php:147
+msgid "WPOS Blocks"
+msgstr ""
+
+#: includes/admin/settings/premium.php:112
+msgid "You can modify plugin html/designs in your current theme."
+msgstr ""

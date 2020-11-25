@@ -1,0 +1,93 @@
+/* AMPLESOFT */
+
+@font-face {
+	font-family: 'AmpleSoft';
+	font-style: normal;
+	font-display: auto;
+	font-weight: 100;
+	src: local('AmpleSoft Fina'), url(../fonts/AmpleSoft-Thin.otf);
+}
+
+@font-face {
+	font-family: 'AmpleSoft';
+	font-style: normal;
+	font-display: auto;
+	font-weight: 200;
+	src: local('AmpleSoft Extraleve'), url(../fonts/AmpleSoft-ExtraLight.otf);
+}
+
+@font-face {
+	font-family: 'AmpleSoft';
+	font-style: normal;
+	font-display: auto;
+	font-weight: 300;
+	src: local('AmpleSoft Leve'), url(../fonts/AmpleSoft-Light.otf);
+}
+
+@font-face {
+	font-family: 'AmpleSoft';
+	font-style: normal;
+	font-display: fallback;
+	font-weight: 400;
+	src: local('AmpleSoft Regular'), url(../fonts/AmpleSoft.otf);
+}
+
+@font-face {
+	font-family: 'AmpleSoft';
+	font-style: normal;
+	font-display: auto;
+	font-weight: 500;
+	src: local('AmpleSoft Médio'), url(../fonts/AmpleSoft-Medium.otf);
+}
+@font-face {
+	font-family: 'AmpleSoft';
+	font-style: normal;
+	font-display: auto;
+	font-weight: 700;
+	src: local('AmpleSoft Negrito'), url(../fonts/AmpleSoft-Bold.otf);
+}
+
+
+/* AVELINE */
+
+@font-face {
+	font-family: 'Aveline';
+	font-style: normal;
+	font-display: auto;
+	font-weight: 400;
+	src: local('Aveline'), url(../fonts/Aveline.ttf);
+}
+ 
+/* GOTHAM NARROW */
+
+@font-face {
+	font-family: 'GothamNarrow';
+	font-style: normal;
+	font-display: auto;
+	font-weight: normal;
+	src: url(../fonts/GothamNarrow-Light.woff);
+}
+
+@font-face {
+	font-family: 'GothamNarrow';
+	font-style: italic;
+	font-display: auto;
+	font-weight: normal;
+	src: url(../fonts/GothamNarrow-LightItalic.woff);
+}
+
+@font-face {
+	font-family: 'GothamNarrow';
+	font-style: normal;
+	font-display: auto;
+	font-weight: bold;
+	src: url(../fonts/GothamNarrow-Bold.woff);
+}
+
+@font-face {
+	font-family: 'GothamNarrow';
+	font-style: italic;
+	font-display: auto;
+	font-weight: bold;
+	src: url(../fonts/GothamNarrow-BoldItalic.woff);
+}

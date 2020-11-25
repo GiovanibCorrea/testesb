@@ -1,0 +1,17 @@
+PROCESSED on Mon, 15 Jul 2019 20:00:01 +0000
+/wp-includes/css/dist/block-library/style.min.css
+/wp-content/plugins/animate-it/assets/css/animate-animo.css
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+/wp-content/plugins/timeline-and-history-slider/assets/css/slick.css
+/wp-content/plugins/timeline-and-history-slider/assets/css/slick-slider-style.css
+/wp-content/themes/sphere/style.css
+/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+/wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+/wp-content/plugins/elementor/assets/css/frontend.min.css
+/wp-content/plugins/elementor-pro/assets/css/frontend.min.css
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+/wp-content/uploads/elementor/css/global.css
+/wp-content/uploads/elementor/css/post-43.css
+/wp-content/uploads/elementor/css/post-1961.css
+/wp-content/uploads/elementor/css/post-2203.css
+PROCESSED from https://sphereinternational.com.br/

